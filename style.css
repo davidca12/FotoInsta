@@ -1,0 +1,76 @@
+img {
+	width: 500px;
+	height: 300px;
+}
+.box{
+	background: green;
+}
+.fotoInsta div{
+	background: white;	
+	
+
+}
+section{
+	background: white;
+}
+.Header{
+	background: red;
+}
+.Header div{
+	display: inline-block;
+}
+.ihtml{
+	background: green;
+	width: 50px;
+	height: 50px;
+	font-size: 50px;
+	text-align: center;
+}
+.rigo{
+	background: blue;
+	width: 50px;
+	height: 50px;
+	font-size: 12px;
+}
+.punt{
+	float: right;
+	background: yellow;
+	width: 50px;
+	height: 50px;
+	text-align: right;
+	margin-right: 5px; 
+	font-size: 30px;
+	margin-top: 15px;
+}
+.Icon{
+	background: red;
+	width: 100%px;
+	height: 40px;
+}
+.Icon div{
+	display: inline;
+}
+.heart{
+	font-size: 25px;
+}
+.comment{
+	font-size: 25px;
+}
+
+.send{
+	font-size: 25px;
+}
+.tag{
+	font-size: 25px;
+	float: right;
+}
+body{
+	background: black;
+	width: 500px;
+	height: 300px;
+	position: absolute;
+	top: 30%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	padding: 15px;
+}
